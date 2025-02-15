@@ -18,7 +18,7 @@ header {
 .logo-title {
     display: flex;
     align-items: center; /* Align logo and title in the same row */
-    text-align: left;
+    text-align: center;
     gap: 15px; /* Space between logo & title */
 }
 
@@ -31,7 +31,7 @@ header {
 
 /* Title Styling */
 header h1 {
-    font-size: 29px;
+    font-size: 39px;
     font-weight: bold;
     margin: 0;
 }
