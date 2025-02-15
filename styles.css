@@ -59,4 +59,16 @@ button {
     font-weight: bold;
     cursor: pointer;
 }
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #800000; /* Maroon */
+    padding: 10px;
+}
+
+.logo {
+    height: 50px; /* Adjust height as needed */
+    margin-right: 15px; /* Space between logo and text */
+}
 
