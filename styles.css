@@ -18,7 +18,6 @@ header {
 .logo-title {
     display: flex;
     align-items: center; /* Align logo and title in the same row */
-    text-align: center;
     gap: 15px; /* Space between logo & title */
 }
 
