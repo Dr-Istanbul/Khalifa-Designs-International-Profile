@@ -41,7 +41,7 @@ header h1 {
     display: flex;
     justify-content: center;
     gap: 20px; /* Space between tabs */
-    background: #800000;
+    background: #800011;
     padding: 10px 0;
     list-style: none;
     flex-wrap: wrap; /* Ensure it doesn't break on small screens */
