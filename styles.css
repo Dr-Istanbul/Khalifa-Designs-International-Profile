@@ -19,9 +19,13 @@ header {
 
 /* Logo Styling */
 .logo {
-    height: 6px; /* Adjust logo size */
-    margin-right: 5px;
+    width: 80px;  /* Adjust width as needed */
+    height: auto;  /* Maintain aspect ratio */
+    position: absolute;
+    top: 10px;  /* Adjust vertical position */
+    left: 20px; /* Adjust horizontal position */
 }
+
 
 /* Title Styling */
 .header-content {
