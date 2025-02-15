@@ -40,6 +40,9 @@ h1 {
     margin: 0;
     text-transform: uppercase;
     letter-spacing: 1px;
+    margin-left: 80px; /* Move text away from the logo */
+    font-size: 2rem;
+    white-space: nowrap; /* Prevent text from wrapping */
 }
 
 /* Navigation Bar */
